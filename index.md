@@ -2,7 +2,7 @@
 
 This course will cover the theory of subsurface hydrology. The videos will be posted on youtube and will be linked here along with the course notes.
 
-[Syllabus](spring2025/GEO325M_Syllabus_2025.pdf)
+[Syllabus](summer2025/Hydro4X_Syllabus_2025.pdf)
  
 The course content will be guided by a current research problem that typically leads to a scientific publication within the following year or two. In past classes we have worked on the following problems:
 
