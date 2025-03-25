@@ -20,7 +20,7 @@ The course content will be guided by a current research problem that typically l
 <!---<## This years course project>-->
 <!---[]<In summer 2025 we will develop a model for>--->
 
-<img src="images/BaptisteOverview_crop.jpg" alt="hi" class="inline"  width="866" height="499"/>
+<img src="images/summer2025_course_image.png" alt="hi" class="inline"  width="866" height="499"/>
 
 <!---[]<For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)>--->
 
