@@ -6,8 +6,8 @@ This course will cover the theory of subsurface hydrology. The videos will be po
  
 The course content will be guided by a current research problem that typically leads to a scientific publication within the following year or two. In past classes we have worked on the following problems:
 
-### Class rooom and time
-* Tue/Th 9:30am - 11:00am in JGB 3.120 in person
+### Class room and time
+* Lecture will be uploaded on Youtube every Sunday.
 
 ### Office hours
 *  Mon noon-1pm ET on Zoom or schedule via email
