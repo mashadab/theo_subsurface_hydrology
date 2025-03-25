@@ -17,12 +17,12 @@ The course content will be guided by a current research problem that typically l
 * [Piazza](https://piazza.com/class/m5psdq6pfcm372) - Discussion board (need a place for discussion)
 * [Matlab Grader](https://grader.mathworks.com/courses/164028-geo-325m-398m-numerical-modeling-2025) - VarSatFlow for homework
 
-<## This years course project>
-<In summer 2025 we will develop a model for>
+[]<## This years course project>
+[]<In summer 2025 we will develop a model for>
 
 <img src="images/BaptisteOverview_crop.jpg" alt="hi" class="inline"  width="866" height="499"/>
 
-<For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)>
+[]<For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)>
 
 ## Introduction
 
