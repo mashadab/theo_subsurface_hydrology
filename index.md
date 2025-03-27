@@ -35,32 +35,38 @@ The course content will be guided by research problems where students will work 
 ## Fundamentals of subsurface hydrology
 
 ### Lecture 2: Fundamentals of subsurface hydrology I
-* Lecture: [recording: General balance equation derivation, Curvilinear coordinate transformation](), [board]()
+#### General balance equation derivation, Curvilinear coordinate transformation
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 3: Fundamentals of subsurface hydrology II
 #### Darcy's experiment, Scaling argument, soil hydraulic parameters
-* Lecture: [recording: ](), [board]()
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 4: Fundamentals of subsurface hydrology III
-* Lecture: [recording: Derivation and discussion on Richards equation (PDE type, non-dimensionalization), Capillary forces and soil type](), [board]()
+#### Derivation and discussion on Richards equation (PDE type, non-dimensionalization), Capillary forces and soil type
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 5: Theory of infiltration I
-* Lecture: [recording: Introduction, effects of evapotranspiration and capillarity](), [board]()
+#### Introduction, effects of evapotranspiration and capillarity
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 6: Theory of infiltration II
-* Lecture: [recording: Diffusion limit](), [board]()
+#### Diffusion limit
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 7: Theory of infiltration III
-* Lecture: [recording: Kinematic wave limit (hyperbolic PDE, method of characteristics),Effect of subsurface heterogeneity](), [board]()
+#### Kinematic wave limit (hyperbolic PDE, method of characteristics),Effect of subsurface heterogeneity
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 8: Theory of infiltration IV
-* Lecture: [recording: Green-Ampt approach](), [board]()
+#### Green-Ampt approach
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 9: Theory of perching
@@ -68,13 +74,30 @@ The course content will be guided by research problems where students will work 
 * Notes: [Notes]()
 
 ### Lecture 10: Theory of groundwater dynamics I
-* Lecture: [recording: Introduction to types of aquifer: confined and unconfined, High vs low aspect ratio aquifers and seepage face](), [board]()
+#### Introduction to types of aquifer: confined and unconfined, High vs low aspect ratio aquifers and seepage face
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
-### Lecture 11: Theory of groundwater dynamics I
-* Lecture: [recording: Derivation of vertically integrated groundwater model, Analytic solutions of quasi-two-dimensional, unconfined aquifers: steady drainage, sudden rainfall, late-stage drainage](), [board]()
+### Lecture 11: Theory of groundwater dynamics II
+#### Derivation of vertically integrated groundwater model, Analytic solutions of quasi-two-dimensional, unconfined aquifers: steady drainage, sudden rainfall, late-stage drainage
+* Lecture: [recording](), [board]()
 * Notes: [Notes]()
 
-### Final lecture: Class review & Discussion
+### Lecture 12: Theory of groundwater dynamics III
+#### Streamfunction, potential function, and groundwater age
+* Lecture: [recording](), [board]()
+* Notes: [Notes]()
+
+### Lecture 13: Advanced topics in subsurface hydrology I
+#### Snow/firn hydrology (inclusion of thermodynamics)
+* Lecture: [recording](), [board]()
+* Notes: [Notes]()
+
+### Lecture 14: Advanced topics in subsurface hydrology I
+#### Coupled subsurface hydrology and reactive-transport modeling
+* Lecture: [recording](), [board]()
+* Notes: [Notes]()
+
+### Lecture 15: Class review & Discussion
 
   
