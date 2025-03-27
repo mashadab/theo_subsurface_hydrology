@@ -38,15 +38,34 @@ The course content will be guided by research problems where students will work 
 ## Fundamentals of subsurface hydrology
 
 ### Lecture 2: Fundamentals of subsurface hydrology I
-* Lecture: [General balance equation derivation, Curvilinear coordinate transformation](), [board]()
+* Lecture: [recording: General balance equation derivation, Curvilinear coordinate transformation](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 3: Fundamentals of subsurface hydrology II
-* Lecture: [recording](), [board]()
+* Lecture: [recording: Darcy's experiment, Scaling argument, soil hydraulic parameters](), [board]()
+* Notes: [Notes]()
+
+### Lecture 4: Fundamentals of subsurface hydrology III
+* Lecture: [recording: Derivation and discussion on Richards equation (PDE type, non-dimensionalization), Capillary forces and soil type](), [board]()
+* Notes: [Notes]()
+
+### Lecture 5: Theory of infiltration I
+* Lecture: [recording: Introduction, effects of evapotranspiration and capillarity](), [board]()
+* Notes: [Notes]()
+
+### Lecture 6: Theory of infiltration II
+* Lecture: [recording: Diffusion limit](), [board]()
+* Notes: [Notes]()
+
+### Lecture 7: Theory of infiltration III
+* Lecture: [recording: Kinematic wave limit (hyperbolic PDE, method of characteristics),Effect of subsurface heterogeneity](), [board]()
+* Notes: [Notes]()
+
+### Lecture 8: Theory of infiltration IV
+* Lecture: [recording: Green-Ampt approach](), [board]()
 * Notes: [Notes]()
 
 
-
-### Lecture 27 (Apr 24): Class review & Discussion
+### Final lecture: Class review & Discussion
 
   
