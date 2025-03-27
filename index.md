@@ -29,8 +29,9 @@ The course content will be guided by research problems where students will work 
 ## Introduction
 
 ### Lecture 1: Introduction
-* [Intro slides](spring2025/CourseIntro2025.pdf), [Class syllabus](spring2025/ClassProject_2025.pdf)
-* Notes: [Water cycle, Volume averaging, Multi-phase flows](spring2023/BalanceLaws.pdf), [Energy Balance](spring2025/Energy_Balance_Simple.pdf)
+### Basics, Water cycle, Volume averaging, Multi-phase flows
+* [Intro slides](spring2025/CourseIntro2025.pdf), [Class syllabus](summer2025/Hydro4X_Syllabus_2025.pdf)
+* Notes: [notes](spring2023/BalanceLaws.pdf)
 
 ## Fundamentals of subsurface hydrology
 
