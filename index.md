@@ -1,6 +1,6 @@
 ## Course Description
 
-This course will cover the theory of subsurface hydrology. The videos will be posted on youtube and will be linked here along with the course notes.
+This course will cover the theoretical concepts in subsurface hydrology that include infiltration and groundwater dynamics. The videos will be posted on youtube each Sunday and will be linked here along with the course notes.
 
 [Syllabus](summer2025/Hydro4X_Syllabus_2025.pdf)
  
