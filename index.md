@@ -4,13 +4,13 @@ This course will cover the theoretical concepts in subsurface hydrology that inc
 
 [Syllabus](summer2025/Hydro4X_Syllabus_2025.pdf)
  
-The course content will be guided by a current research problem that typically leads to a scientific publication within the following year or two. In past classes we have worked on the following problems:
+The course content will be guided by research problems where students will work on conceptual, theoretical and occasionally numerical examples.
 
 ### Class room and time
 * Lecture will be uploaded on Youtube every Sunday.
 
 ### Office hours
-*  Mon noon-1pm ET on Zoom or schedule via email
+*  Mon noon-1pm ET on Zoom ( https://princeton.zoom.us/j/5320572598 ) or schedule via email
 
 
 ### Additional course websites:
