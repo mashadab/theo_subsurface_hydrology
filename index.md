@@ -65,6 +65,17 @@ The course content will be guided by research problems where students will work 
 * Lecture: [recording: Green-Ampt approach](), [board]()
 * Notes: [Notes]()
 
+### Lecture 9: Theory of perching
+* Lecture: [recording](), [board]()
+* Notes: [Notes]()
+
+### Lecture 10: Theory of groundwater dynamics I
+* Lecture: [recording: Introduction to types of aquifer: confined and unconfined, High vs low aspect ratio aquifers and seepage face](), [board]()
+* Notes: [Notes]()
+
+### Lecture 11: Theory of groundwater dynamics I
+* Lecture: [recording: Derivation of vertically integrated groundwater model, Analytic solutions of quasi-two-dimensional, unconfined aquifers: steady drainage, sudden rainfall, late-stage drainage](), [board]()
+* Notes: [Notes]()
 
 ### Final lecture: Class review & Discussion
 
