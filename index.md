@@ -23,9 +23,6 @@ The course content will be guided by research problems where students will work 
 <img src="images/summer2025_course_image.png" alt="hi" class="inline"  width="866"/>
 
 <!---[]<For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)>--->
-
-## Introduction
-
 <!---[]template, does not count
 * [Intro slides](spring2025/CourseIntro2025.pdf), [Class project](spring2025/ClassProject_2025.pdf)
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Energy Balance](spring2025/Energy_Balance_Simple.pdf)--->
@@ -42,7 +39,8 @@ The course content will be guided by research problems where students will work 
 * Notes: [Notes]()
 
 ### Lecture 3: Fundamentals of subsurface hydrology II
-* Lecture: [recording: Darcy's experiment, Scaling argument, soil hydraulic parameters](), [board]()
+#### Darcy's experiment, Scaling argument, soil hydraulic parameters
+* Lecture: [recording: ](), [board]()
 * Notes: [Notes]()
 
 ### Lecture 4: Fundamentals of subsurface hydrology III
